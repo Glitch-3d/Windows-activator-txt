@@ -1,4 +1,4 @@
-# Windows-activator-txt
+# Windows-activator-txt (Only for Windows 10)
 To activate windows 10 professional, home, education , enterprise products.
 KMSpico script<br>
 
@@ -35,5 +35,6 @@ HOW TO USE THIS SCRIPT
 4) Go to the Virus and threats protection manage setting which is second one the window below the current threats
 5) Once your inside manage settings turn off the real-time protection  to make sure your .cmd file is not deleted before running as sometimes the firewall reads this file as a threat.
 6) After turning off the real-time protection follow the steps as given in NO.1 line. in this list.
+   <br>
    <br>
    Even after this it doesn't work or shows KMS server failed try changing the url of kms according to running kms server by running th url kms8.MSGuides.com or change the kms7.MSGuides.com or any other kms server if it runs on your browser its will direct to the #Project: Activating Microsoft software products for FREE without additional software that means this url is working paste the working url in the middle of the code if %i% EQU 1 set KMS=kms8.MSGuides.com just change the url (ONLY THE kms.8.MSGuides.com not the whole line)and save it and follow the steps.
